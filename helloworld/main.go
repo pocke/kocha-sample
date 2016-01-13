@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/naoina/kocha-sample/helloworld/app/controller"
-	"github.com/naoina/kocha-sample/helloworld/config"
+	"github.com/pocke/kocha-sample/helloworld/app/controller"
+	"github.com/pocke/kocha-sample/helloworld/config"
 
 	"github.com/naoina/kocha"
 )
